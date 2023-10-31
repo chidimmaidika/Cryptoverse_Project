@@ -57,8 +57,8 @@ I have organized the SQL statements for each question into a Python script for e
 
 You can find the SQL statements and the Python script in this repository for your reference.
 
-- [SQL Statements](SQL_Statements.md)
-- [Python Script](cryptoverse_query_script.py)
+- [SQL Statements](https://github.com/ChidimmaIdika/Cryptoverse_Project/blob/Chidimma/Cryptoverse%20Project.sql)
+- [Python Script](https://github.com/ChidimmaIdika/Cryptoverse_Project/blob/Chidimma/Chidimma_Idika.py)
 
 ## Usage
 
